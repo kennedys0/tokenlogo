@@ -1,0 +1,21 @@
+{
+  "name": "HIVE Token List (Base Sepolia)",
+  "logoURI": "https://raw.githubusercontent.com/kennedys0/tokenlogo/refs/heads/main/Hive%20Logo.png",
+  "keywords": ["HIVE", "Base", "Sepolia", "ERC20"],
+  "timestamp": "2025-10-08T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 84532,
+      "address": "0x302ecb3b92259a046f19c2aeEf1627E0dF18aC93",
+      "name": "HIVE",
+      "symbol": "HIVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kennedys0/tokenlogo/refs/heads/main/Hive%20Logo.png"
+    }
+  ]
+}
